@@ -1,8 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# E-commerce Landing page
 
-Currently, two official plugins are available:
+This project is the E-commerce landing page with functionality of Search by product name, filter by category and more..
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Tech Stack
+
+**Client:** React, TailwindCSS, Ant Design
+
+**Server:** Node, Express, MongoDB
+
+
+## Deployment
+
+To access this project, Hit
+
+https://ecommercesitelandingpage.netlify.app
+
