@@ -73,7 +73,6 @@ const Search = ({ isMobile }) => {
             <Input
                 placeholder="Search..."
                 size="large"
-                allowClear
                 className='w-full'
                 onChange={handleSearch}
                 prefix={
