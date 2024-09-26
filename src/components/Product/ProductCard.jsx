@@ -42,6 +42,8 @@ const ProductCard = ({ title, price, description, category, image, rating }) => 
             </Card>
 
             <Modal
+                key={title}
+                open={isModalVisible}
                 onOk={handleOk}
                 onCancel={handleOk}
                 footer={[
